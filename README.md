@@ -5,7 +5,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=700&duration=3000&lines=Software+Developer;Instructor+at+Scaler;Exploring+GenAI+%26+Research+Papers;Film+Maker+%7C+Cricket+Lover+%7C+Swimmer;Freelancer+for+Global+Clients" 
+    src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=700&duration=3000&lines=Software+Developer;SDE1+at+73Strings;Exploring+GenAI+%26+Research+Papers;Freelancer+Full+Stack-Developer" 
     alt="typing animation" />
 </p>
 
